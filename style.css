@@ -106,7 +106,11 @@ main section .right .filter input::-webkit-slider-runnable-track{
     border-radius: 2px;
 }
 
-
+canvas{
+    background-color: aliceblue;
+    max-width: 90%;
+    max-height: 80vh;
+}
 
 
 
